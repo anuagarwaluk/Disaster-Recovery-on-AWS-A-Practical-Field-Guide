@@ -41,15 +41,28 @@ The first three are active/passive: one site serves traffic while another stands
 4. **Detection spends your RTO before recovery starts.** A one-hour RTO must contain detection, escalation, the decision to declare a disaster, and the recovery itself.
 5. **The only recovery path that works is the one you test frequently.** Untested assumptions about capacity, quotas and AMI currency decay silently. Fewer recovery paths, exercised often, beat many paths exercised never.
 
+<img width="882" height="574" alt="Screenshot 2026-11-14 at 04 53 35" src="https://github.com/user-attachments/assets/280bdfb7-d9dc-4bea-b1e7-c60ee33de017" />
+<img width="949" height="456" alt="Screenshot 2026-11-14 at 06 25 20" src="https://github.com/user-attachments/assets/4ff164b4-36ac-4779-af4c-4e3a521bf48b" />
+<img width="843" height="434" alt="Screenshot 2026-11-14 at 06 26 16" src="https://github.com/user-attachments/assets/cd28d084-f89c-45ee-a85e-646403ac08db" />
+<img width="833" height="497" alt="Screenshot 2026-11-14 at 06 28 31" src="https://github.com/user-attachments/assets/05b51450-c8c3-4a85-9d3b-d8fc7a136fe1" />
+<img width="827" height="494" alt="Screenshot 2026-11-14 at 06 28 43" src="https://github.com/user-attachments/assets/c6aa514f-b27d-4010-aeb0-ae7bb3eae97e" />
+<img width="899" height="414" alt="Screenshot 2026-11-14 at 06 30 22" src="https://github.com/user-attachments/assets/2d88fc64-9834-4346-91dd-380948e80c0b" />
+<img width="947" height="456" alt="Screenshot 2026-11-14 at 06 31 48" src="https://github.com/user-attachments/assets/9a19193d-5017-4c1a-80dd-652a4f86965a" />
+<img width="1041" height="672" alt="Screenshot 2026-11-14 at 06 32 53" src="https://github.com/user-attachments/assets/9e639bbd-e977-45df-921c-f2b43148612d" />
+<img width="861" height="468" alt="Screenshot 2026-11-14 at 06 33 53" src="https://github.com/user-attachments/assets/29d9e418-9e11-46af-9b0f-44716c259856" />
+<img width="1021" height="505" alt="Screenshot 2026-11-14 at 06 34 49" src="https://github.com/user-attachments/assets/139a9c6f-1283-4ac4-ae29-5167b1eb3609" />
+<img width="908" height="463" alt="Screenshot 2026-11-14 at 06 35 48" src="https://github.com/user-attachments/assets/040d893f-928b-48b1-a665-15195fba68c9" />
+<img width="971" height="465" alt="Screenshot 2026-11-14 at 06 37 03" src="https://github.com/user-attachments/assets/ceb2c3f8-62d1-442a-8240-cffdcfb2454d" />
+
+
 ## Source and attribution
 
 This material is a practitioner summary of the AWS whitepaper [Disaster Recovery of Workloads on AWS: Recovery in the Cloud](https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-workloads-on-aws.html), part of the AWS Well-Architected Framework. All architecture diagrams in `assets/` are from that whitepaper and are © Amazon Web Services, Inc. or its affiliates, included here for educational reference with attribution. See [assets/ATTRIBUTION.md](assets/ATTRIBUTION.md). The commentary and structure in the markdown files are my own.
 
 ## About the author
 
-I am Anu Agarwal, an AWS Solutions Architect and senior technical programme leader based in the UK. I have led cloud migration and technology transformation programmes at multi-billion-dollar scale across media, retail and public sector organisations, including large-scale AWS procurement and migration work. I write about AWS architecture, programme leadership and engineering decision-making.
-
+Anu Agarwal
 * LinkedIn: [linkedin.com/in/agarwalanu](https://www.linkedin.com/in/agarwalanu)
-* Substack: The Strategic Edge
+* Substack: The Strategic Edge - https://anuagarwal.substack.com/p/your-cloud-architecture-is-highly 
 
 If this guide helps you, a star helps others find it.
