@@ -1,4 +1,4 @@
-# Disaster Recovery on AWS: A Practical Field Guide
+# Your Cloud Architecture Is Highly Available. But It Won’t Survive a Disaster
 
 A structured, practitioner-focused breakdown of AWS disaster recovery strategy, based on the AWS Well-Architected whitepaper "Disaster Recovery of Workloads on AWS: Recovery in the Cloud". Written for architects, technical programme leaders and engineering managers who need to choose, justify and test a DR strategy, not just read about one.
 
